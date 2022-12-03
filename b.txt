@@ -1,1 +1,1 @@
-Atualizando para testar o git clone
+Atualizando para testar o git
