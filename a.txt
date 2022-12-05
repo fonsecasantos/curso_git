@@ -3,3 +3,6 @@ este
 Arquivo
 de texto
 23
+enviando a
+funcionalidade
+x
